@@ -2,7 +2,6 @@
 
 # EN
 ## Overview
-
 The SystemSoundsPlayer app is a SwiftUI application that allows users to play, manage, and add favorites to system sounds on an iOS device. The app provides a user-friendly interface to test sounds between IDs 1000 and 2000, save favorites, and play them directly.
 
 ---
@@ -31,13 +30,21 @@ The SystemSoundsPlayer app is a SwiftUI application that allows users to play, m
 
 ![MainView]([Resources/img_1131.png](https://github.com/Jo-Developer40/SystemSoundsPlay/tree/main/Resources#:~:text=img_1131.PNG))
 
-
 ---
+
+## Requirements
+- **Platform**: iOS 16.0 or later
+- **Frameworks**: SwiftUI, AudioToolbox, Combine
+- **Xcode version**: 14.0 or later
+
+## License
+This project is licensed under the Apache License. For more information, see the `LICENSE` file.
+
+
 
 
 # DE
 ## Übersicht
-
 Die SystemSoundsPlayer-App ist eine SwiftUI-Anwendung, die es Benutzern ermöglicht, Systemtöne auf einem iOS-Gerät abzuspielen, zu verwalten und Favoriten hinzuzufügen. Die App bietet eine benutzerfreundliche Oberfläche, um Töne zwischen den IDs 1000 und 2000 zu testen, Favoriten zu speichern und diese direkt abzuspielen.
 
 ---
@@ -60,27 +67,10 @@ Die SystemSoundsPlayer-App ist eine SwiftUI-Anwendung, die es Benutzern ermögli
 - **Eingabefeld für Sound-ID**: Benutzerdefinierte Sound-ID setzen.
 - **Warnmeldungen**: Feedback bei ungültigen Eingaben.
 
----
-
-## Screenshots
-
-### Hauptansicht
-![Hauptansicht](../Resources/img_1131.png)
-
-<img src="../Resources/img_1131.png" alt="Hauptansicht" width="300" height="200">
-
----
-
 ## Anforderungen
-
 - **Plattform**: iOS 16.0 oder höher
 - **Frameworks**: SwiftUI, AudioToolbox, Combine
 - **Xcode-Version**: 14.0 oder höher
 
----
-
-
-
 ## Lizenz
-
 Dieses Projekt steht unter der Apache License. Weitere Informationen findest du in der Datei `LICENSE`.
