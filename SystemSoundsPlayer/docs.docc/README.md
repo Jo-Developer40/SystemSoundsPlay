@@ -65,9 +65,9 @@ Die SwiftUI-Ansicht `SystemSoundView` stellt die Benutzeroberfläche bereit.
 ## Screenshots
 
 ### Hauptansicht
-![Hauptansicht](../Resources/img_1131.png)
+![Hauptansicht](Resources/img_1131.png)
 
-<img src="../Resources/img_1131.png" alt="Hauptansicht" width="300" height="200">
+<img src="Resources/img_1131.png" alt="Hauptansicht" width="300" height="200">
 
 ---
 
