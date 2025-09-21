@@ -29,11 +29,8 @@ The SystemSoundsPlayer app is a SwiftUI application that allows users to play, m
 
 ## Screenshots
 
-### Resources
-
-<img src="../Resources/img_1131.png" width="300" alt="MainView"/>
 ![MainView](Resources/img_1131.png)
-<img src="Resources/img_1131.png" width="300" alt="MainView"/>
+
 ---
 
 
