@@ -15,7 +15,6 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				docs.docc,
-				README.md,
 			);
 			target = 38D2395A2E7E975600C25619 /* SystemSoundsPlayer */;
 		};
