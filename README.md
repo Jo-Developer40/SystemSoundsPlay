@@ -2,7 +2,7 @@
 
 # EN
 ## Overview
-The SystemSoundsPlayer app is a SwiftUI application that allows users to play, manage, and add favorites to system sounds on an iOS device. The app provides a user-friendly interface to test sounds between IDs 1000 and 2000, save favorites, and play them directly.
+The SystemSoundsPlayer app is a SwiftUI application that allows users to play `system sounds` on an iOS device. The app provides a user-friendly interface to test sounds between IDs 1000 and 2000, save favorites, and play them directly.
 
 ---
 
@@ -45,7 +45,7 @@ This project is licensed under the Apache License. For more information, see the
 
 # DE
 ## Übersicht
-Die SystemSoundsPlayer-App ist eine SwiftUI-Anwendung, die es Benutzern ermöglicht, Systemtöne auf einem iOS-Gerät abzuspielen, zu verwalten und Favoriten hinzuzufügen. Die App bietet eine benutzerfreundliche Oberfläche, um Töne zwischen den IDs 1000 und 2000 zu testen, Favoriten zu speichern und diese direkt abzuspielen.
+Die SystemSoundsPlayer-App ist eine SwiftUI-Anwendung, mit der Systemtöne auf einem iOS-Gerät abgespielt werden können. Die App bietet eine benutzerfreundliche Oberfläche, um Töne zwischen den IDs 1000 und 2000 zu testen, Favoriten zu speichern und diese direkt abzuspielen.
 
 ---
 
